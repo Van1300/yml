@@ -1,0 +1,3 @@
+com.translation.yml.config.ApplicationRepositoriesAutoConfiguration
+com.translation.yml.config.ApplicationTransactionManagersAutoConfig
+com.translation.yml.config.ApplicationProvidersAutoConfiguration
